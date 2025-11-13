@@ -1,1 +1,5 @@
 --1st learning Laravel
+--2nd learn javascript 
+--3rd learn React
+--4th learn next.js
+--5th learn node.js
